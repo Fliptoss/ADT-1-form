@@ -1,6 +1,5 @@
 # Generated files
-output.json
-summary.txt
+
 
 # Python
 __pycache__/
@@ -10,4 +9,4 @@ __pycache__/
 venv/
 *.egg-info/
 dist/
-build/ 
+build/
